@@ -2,6 +2,8 @@ AI-Chatbot with FAISS & Mistral AI
 Overview
 This AI-powered chatbot retrieves knowledge using FAISS and generates responses using Mistral AI. It processes website content into a structured format, indexes it for efficient retrieval, and provides a web-based chat interface built with Streamlit.
 
+![Image](https://github.com/user-attachments/assets/a5c9943c-74d3-446a-acfc-274dfef62d7f)
+
 Features
 ✅ FAISS-based knowledge retrieval – Efficient vector-based search
 ✅ Mistral AI-powered response generation – Context-aware responses
